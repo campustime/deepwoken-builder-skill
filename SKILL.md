@@ -1,5 +1,5 @@
 ---
-name: Deepwoken Builder
+name: deepwoken-builder-skill
 description: Analyze and optimize Deepwoken character builds, talents and mantras
 ---
 

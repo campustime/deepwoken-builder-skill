@@ -1,3 +1,8 @@
+---
+name: Deepwoken Builder
+description: Analyze and optimize Deepwoken character builds, talents and mantras
+---
+
 # Deepwoken Builder
 
 ## Overview
